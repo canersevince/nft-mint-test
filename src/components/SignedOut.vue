@@ -1,6 +1,6 @@
 <template>
   <main>
-
+    <button @click="login()"></button>
   </main>
 </template>
 
